@@ -20,19 +20,19 @@ Control The dinosaur with your voice
 **keep in mind**
 - You have to continuously command or else the program will throw back error, you can command at the right time when you see the microphone symbol in your task bar
 - The dinosaur is superfast so we need to slow it down so in order to slow it down 
-  1.navigate to the webpage '_chrome://dino_'
-  2.Right Click Your Mouse and click on Inspect 
-  3.Go to Console Tab
-  4.Run Command '_Runner.instance_.setSpeed(0.009);_' where '0.009' is the speed You can also use '- minus sign' to make the Dinosaur run backwards
-  5.Click Enter and Start the program '_main.py_'
-  6.Wait for the microphone symbol in Your task bar When You see it Say '_start_' to start the game make sure the wepage tab is selected !!!
+  1. Navigate to the webpage '_chrome://dino_'
+  2. Right Click Your Mouse and click on Inspect 
+  3. Go to Console Tab
+  4. Run Command '_Runner.instance_.setSpeed(0.009);_' where '0.009' is the speed You can also use '- minus sign_' to make the Dinosaur run backwards
+  5. Click Enter and Start the program '_main.py_'
+  6. Wait for the microphone symbol in Your task bar When You see it Say '_start_' to start the game make sure the wepage tab is selected !!!
   7.Enjoy the game in a new aspect
   
 ## module used 
 
-> Pyaudio
-> pyautogui
-> speech_recognition
+>- Pyaudio
+>- pyautogui
+>- speech_recognition
 
 run command 'pip install -r requirements.txt' to install all the required modules 
 
